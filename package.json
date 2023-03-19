@@ -1,0 +1,17 @@
+{
+  "name": "typescripting",
+  "version": "1.0.0",
+  "description": "Typescript from beginner to advanced",
+  "main": "index.ts",
+  "scripts": {
+    "trigger": "tsc && node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "typescript": "^4.9.5"
+  }
+}
