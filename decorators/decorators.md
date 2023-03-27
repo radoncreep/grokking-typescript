@@ -49,3 +49,6 @@ Property decorators
 Accessorts decorators
 These are similart to method decorators because accessors under-the-hood are just methods.
 They have the same number of parameters and with their types respectively.
+
+Parameter Decorator
+Not frequently used. In most cases, used when designing a framework.
